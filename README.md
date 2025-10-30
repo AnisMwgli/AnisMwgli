@@ -16,13 +16,13 @@ Actuellement en train de développer des projets personnels, dont **Pawsitive**,
 
 ## 🛠️ Tech & Outils
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
 
 ---
 
@@ -46,7 +46,7 @@ Extension de navigateur pour filtrer les offres d’alternance des écoles aux p
 
 ## 📈 Statistiques GitHub
 
-![AMNIALI Anis GitHub stats](https://github-readme-stats.vercel.app/api?username=anisamniali&show_icons=true&theme=radical)
+![AMNIALI Anis GitHub stats](https://github-readme-stats.vercel.app/api?username=anismwgli&show_icons=true&theme=radical)
 
 ---
 
