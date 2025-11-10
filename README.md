@@ -1,4 +1,4 @@
-# 👋 Salut, je suis AMNIALI Anis
+# 👋 Salut, je suis Anis
 
 Développeur débutant passionné de 23 ans, spécialisé en **frontend web (Vite + Vanilla JS)** et **Java (Spring Boot)**.  
 Actuellement en train de développer des projets personnels, dont **Pawsitive**, une application de suivi et de bien-être pour animaux de compagnie 🐾.
